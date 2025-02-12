@@ -4,4 +4,4 @@
 # Luis Gustavo Rodrigues Da Silva
 
 ## Desafio de node-js!
-# Criação de um sistema e carros e aviões com ano e cor! tudo em javascript!
+# Criação de um sistema de carros e aviões com ano e cor! tudo em javascript!
